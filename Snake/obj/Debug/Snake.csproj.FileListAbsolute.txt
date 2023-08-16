@@ -1,0 +1,11 @@
+C:\Users\sudik\OneDrive\Рабочий стол\с#\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\sudik\OneDrive\Рабочий стол\с#\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\sudik\OneDrive\Рабочий стол\с#\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\sudik\OneDrive\Рабочий стол\с#\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\sudik\OneDrive\Рабочий стол\с#\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\sudik\OneDrive\Рабочий стол\с#\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\sudik\OneDrive\Рабочий стол\с#\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\sudik\OneDrive\Рабочий стол\с#\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\sudik\OneDrive\Рабочий стол\с#\Snake\Snake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sudik\OneDrive\Рабочий стол\с#\Snake\Snake\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sudik\OneDrive\Рабочий стол\с#\Snake\Snake\obj\Debug\Snake.csproj.CopyComplete
